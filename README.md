@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zakreble</h1>
-<h3 align="center">Passionate content creator and aspiring full-stack developer.</h3>
-I'm one of the early Polish internet creators who has been producing content on YouTube since 2011. My content spans across gaming, popular science, and lifestyle topics. I also conduct live streams on Twitch and am venturing into other social media platforms. 
+<h1 align="center">Hi 👋, I'm Zakreble </h1>
+<h3>Passionate content creator and aspiring full-stack developer.</h3>
+
+<p align="left">I'm one of the early Polish internet creators who has been producing content on YouTube since 2011. My content spans across gaming, popular science, and lifestyle topics. I also conduct live streams on Twitch and am venturing into other social media platforms. 
 
 Seeking avenues for growth, I decided to embark on a programming journey, starting with the 2023 Harvard CS50x course. Currently, I'm learning full-stack web development through Udemy. 
 
@@ -13,7 +14,7 @@ I'm learning through:
 * Personal tutoring 
 * Educational content on YouTube 
 * Programming-focused websites.
-
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakreble&label=Profile%20views&color=0e75b6&style=flat" alt="zakreble" /> </p>
 
