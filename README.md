@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zakreble </h1>
+<h1 align="center">Hi 👋, I'm Zakreble </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=zakreble&label=Profile%20views&color=0e75b6&style=flat" alt="zakreble" /> </p>
 <h3>Passionate content creator and aspiring full-stack developer.</h3>
 
 <p align="left">I'm one of the early Polish internet creators who has been producing content on YouTube since 2011. My content spans across gaming, popular science, and lifestyle topics. I also conduct live streams on Twitch and am venturing into other social media platforms. 
@@ -16,11 +16,9 @@ I'm learning through:
 * Programming-focused websites.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakreble&label=Profile%20views&color=0e75b6&style=flat" alt="zakreble" /> </p>
-
-- 🔭 I’m currently working on [own website.](listofmine.com)
-- 🌱 I’m currently learning **html,css,javascript.**
-- 📫 How to reach me **Zakreble@gmail.com**
+- 🔭 I’m currently working on [own website.](http://www.listofmine.com)
+- 🌱 I’m currently learning **html, css, javascript.**
+- 📫 Reach me through **Zakreble@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
