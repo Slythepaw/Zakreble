@@ -3,7 +3,7 @@
 
 <p align="left">I'm one of the early Polish internet creators, making content on YouTube since 2011. Decided to expand horizons by diving into programming, starting with the 2023 Harvard CS50x course. Right now, I'm deep into learning full-stack web development on Udemy.
 
-Before hitting the books, I dabbled in amateur website editing, managed my own gaming servers, and moderated thematic forums.
+Before really getting into the serious stuff, I played around with editing websites, ran my own gaming servers, moderated forums, and also took care of my own online store.
 
 Started coding in early May 2023, making sure I pick up something new every day. 
 
