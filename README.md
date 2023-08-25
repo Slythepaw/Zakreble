@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakreble</h1>
 <h3 align="center">Passionate content creator and aspiring full-stack developer.</h3>
 
-<p align="left">One of the early Polish internet creators who has been producing content on YouTube since 2011. 
+<p align="left">I'm one of the early Polish internet creators who has been producing content on YouTube since 2011. 
 Seeking avenues for growth, I decided to embark on a programming journey, starting with the 2023 Harvard CS50x course. Currently, I'm learning full-stack web development through Udemy. 
 
 Before formal learning, I dabbled in amateur website editing, set up my own gaming servers and managed them, and moderated thematic forums. 
