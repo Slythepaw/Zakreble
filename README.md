@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zakreble</h1>
+<h1 align="center">Hi 👋, I'm Slythepaw</h1>
 <h3 align="center">Passionate content creator and aspiring full-stack developer.</h3>
 
 <p align="left">I'm one of the early Polish internet creators, making content on YouTube since 2011. Decided to expand horizons by diving into programming, starting with the 2023 Harvard CS50x course. Right now, I'm deep into learning full-stack web development on Udemy.
